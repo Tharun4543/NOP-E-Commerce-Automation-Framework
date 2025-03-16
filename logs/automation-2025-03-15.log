@@ -1,0 +1,455 @@
+17:45:23.658 [main] INFO  - *** RegisterTest execution got started
+17:45:27.706 [main] INFO  - RegisterTest execution got passed
+17:45:27.706 [main] INFO  - RegisterTest execution got completed
+17:49:15.119 [main] INFO  - *** RegisterTest execution got started
+18:02:37.672 [main] INFO  - *** RegisterTest execution got started
+18:02:42.871 [main] INFO  - RegisterTest execution got failed
+18:26:08.452 [main] INFO  - *** RegisterTest execution got started
+18:26:12.968 [main] INFO  - RegisterTest execution got failed
+18:27:44.447 [main] INFO  - *** RegisterTest execution got started
+18:27:48.460 [main] INFO  - RegisterTest execution got passed
+18:27:48.465 [main] INFO  - RegisterTest execution got completed
+18:29:42.452 [main] INFO  - *** RegisterTest execution got started
+18:29:47.321 [main] INFO  - RegisterTest execution got passed
+18:29:47.321 [main] INFO  - RegisterTest execution got completed
+18:33:55.425 [main] INFO  - *** RegisterTest execution got started
+18:33:59.446 [main] INFO  - RegisterTest execution got passed
+18:33:59.446 [main] INFO  - RegisterTest execution got completed
+18:34:06.948 [main] INFO  - *** RegisterTest execution got started
+18:34:11.178 [main] INFO  - RegisterTest execution got passed
+18:34:11.178 [main] INFO  - RegisterTest execution got completed
+18:35:17.654 [TestNG-tests-1] INFO  - *** RegisterTest execution got started
+18:35:19.033 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+18:35:22.832 [TestNG-tests-1] INFO  - RegisterTest execution got passed
+18:35:22.832 [TestNG-tests-1] INFO  - RegisterTest execution got completed
+18:35:23.793 [TestNG-tests-2] INFO  - RegisterTest execution got passed
+18:35:23.794 [TestNG-tests-2] INFO  - RegisterTest execution got completed
+18:35:50.205 [TestNG-tests-1] INFO  - *** RegisterTest execution got started
+18:35:50.217 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+18:35:55.978 [TestNG-tests-1] INFO  - RegisterTest execution got passed
+18:35:55.978 [TestNG-tests-1] INFO  - RegisterTest execution got completed
+18:35:56.251 [TestNG-tests-2] INFO  - RegisterTest execution got passed
+18:35:56.251 [TestNG-tests-2] INFO  - RegisterTest execution got completed
+18:52:45.469 [main] INFO  - *** RegisterTest execution got started
+18:52:49.048 [main] INFO  - RegisterTest execution got passed
+18:52:49.048 [main] INFO  - RegisterTest execution got completed
+19:16:51.440 [main] INFO  - *** RegisterTest execution got started
+19:16:57.063 [main] INFO  - RegisterTest execution got passed
+19:16:57.064 [main] INFO  - RegisterTest execution got completed
+20:31:49.419 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+20:31:53.266 [TestNG-tests-2] INFO  - RegisterTest execution got passed
+20:31:53.266 [TestNG-tests-2] INFO  - RegisterTest execution got completed
+20:34:03.571 [main] INFO  - *** RegisterTest execution got started
+20:34:06.474 [main] INFO  - LoginTest execution got passed
+20:34:06.474 [main] INFO  - LoginTest execution got completed
+20:39:30.242 [main] INFO  - Launching browser: chrome
+20:39:37.836 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+20:39:38.070 [main] INFO  - *** RegisterTest execution got started
+20:39:40.446 [main] INFO  - LoginTest execution got passed
+20:39:40.446 [main] INFO  - LoginTest execution got completed
+20:39:40.736 [main] INFO  - Browser closed.
+21:44:49.030 [main] INFO  - Launching browser: chrome
+21:44:56.881 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:44:57.507 [main] INFO  - Browser closed.
+21:47:17.360 [main] INFO  - Launching browser: chrome
+21:47:25.336 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:47:25.859 [main] INFO  - Browser closed.
+21:57:59.744 [main] INFO  - Launching browser: chrome
+21:58:06.556 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:58:07.160 [main] INFO  - Browser closed.
+21:59:43.847 [main] INFO  - Launching browser: chrome
+21:59:49.424 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:59:49.943 [main] INFO  - Browser closed.
+22:01:46.566 [main] INFO  - Launching browser: chrome
+22:01:53.487 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+22:01:54.050 [main] INFO  - Browser closed.
+21:43:01.169 [main] INFO  - Launching browser: chrome
+21:43:10.371 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:43:10.812 [main] INFO  - Browser closed.
+21:43:35.497 [main] INFO  - Launching browser: chrome
+21:43:42.457 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:43:42.857 [main] INFO  - Browser closed.
+21:48:36.431 [main] INFO  - Launching browser: chrome
+21:48:42.752 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:48:43.194 [main] INFO  - Browser closed.
+21:49:24.521 [main] INFO  - Launching browser: chrome
+21:49:32.537 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:49:32.972 [main] INFO  - Browser closed.
+21:50:57.990 [main] INFO  - Launching browser: chrome
+21:51:13.664 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:51:13.922 [main] INFO  - *** LoginTest execution got started ***
+21:51:16.984 [main] INFO  - *** LoginTest execution got passed ***
+21:51:16.985 [main] INFO  - *** LoginTest execution got completed ***
+21:51:17.222 [main] INFO  - Browser closed.
+21:52:24.348 [main] INFO  - Launching browser: chrome
+21:52:34.989 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:52:35.215 [main] INFO  - *** LoginTest execution got started ***
+21:52:38.194 [main] INFO  - *** LoginTest execution got passed ***
+21:52:38.194 [main] INFO  - *** LoginTest execution got completed ***
+21:52:38.467 [main] INFO  - Browser closed.
+21:53:08.185 [main] INFO  - Launching browser: chrome
+21:53:21.387 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:53:21.825 [main] INFO  - Browser closed.
+21:55:07.238 [main] INFO  - Launching browser: chrome
+21:55:59.983 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:56:00.419 [main] INFO  - Browser closed.
+21:05:42.844 [main] INFO  - Launching browser: chrome
+21:05:52.009 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:05:52.452 [main] INFO  - Browser closed.
+21:12:19.856 [main] INFO  - Launching browser: chrome
+21:12:25.386 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:12:25.805 [main] INFO  - Browser closed.
+21:15:09.441 [main] INFO  - Launching browser: chrome
+21:15:15.122 [main] INFO  - Navigating to: https://tutorialsninja.com/demo/
+21:15:16.326 [main] INFO  - *** LoginDDT Test execution got started ***
+21:15:19.035 [main] INFO  - *** LoginDDT Test execution got passed ***
+21:15:19.050 [main] INFO  - *** LoginDDT Test execution got started ***
+21:15:20.456 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [984ac3645a8c490672f3493557300ec3, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54610/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 984ac3645a8c490672f3493557300ec3
+21:15:20.460 [main] INFO  - *** LoginDDT Test execution got started ***
+21:15:23.160 [main] INFO  - *** LoginDDT Test execution got passed ***
+21:15:23.168 [main] INFO  - *** LoginDDT Test execution got started ***
+21:15:24.586 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [984ac3645a8c490672f3493557300ec3, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54610}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54610/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 984ac3645a8c490672f3493557300ec3
+21:15:24.789 [main] INFO  - Browser closed.
+21:23:12.419 [main] INFO  - *** RegisterTest execution got started
+21:25:52.673 [main] INFO  - *** RegisterTest execution got started
+21:30:02.868 [main] INFO  - *** RegisterTest execution got started
+21:31:24.507 [main] INFO  - *** RegisterTest execution got started
+21:34:20.645 [main] INFO  - *** RegisterTest execution got started
+21:35:01.007 [main] INFO  - *** RegisterTest execution got started
+21:39:09.919 [main] INFO  - *** RegisterTest execution got started
+21:46:09.922 [main] INFO  - *** RegisterTest execution got started
+21:49:14.266 [main] INFO  - *** RegisterTest execution got started
+21:50:33.699 [main] INFO  - Launching browser: chrome on OS: Windows
+21:50:39.042 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:50:39.117 [main] INFO  - *** RegisterTest execution got started
+21:50:43.074 [main] INFO  - RegisterTest execution got passed
+21:50:43.074 [main] INFO  - RegisterTest execution got completed
+21:50:43.364 [main] INFO  - Browser closed successfully.
+21:50:43.369 [main] INFO  - Launching browser: chrome on OS: Windows
+21:50:48.185 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:50:48.192 [main] INFO  - *** LoginTest execution got started ***
+21:50:50.656 [main] INFO  - *** LoginTest execution got passed ***
+21:50:50.656 [main] INFO  - *** LoginTest execution got completed ***
+21:50:50.856 [main] INFO  - Browser closed successfully.
+21:50:50.859 [main] INFO  - Launching browser: chrome on OS: Windows
+21:50:55.896 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:50:56.853 [main] INFO  - *** LoginDDT Test execution got started ***
+21:50:59.320 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f024f2dd405feb0da821b988f55b4754, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60022/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f024f2dd405feb0da821b988f55b4754
+21:50:59.328 [main] INFO  - *** LoginDDT Test execution got started ***
+21:51:04.705 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f024f2dd405feb0da821b988f55b4754, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60022/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f024f2dd405feb0da821b988f55b4754
+21:51:04.707 [main] INFO  - *** LoginDDT Test execution got started ***
+21:51:10.066 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f024f2dd405feb0da821b988f55b4754, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60022/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f024f2dd405feb0da821b988f55b4754
+21:51:10.069 [main] INFO  - *** LoginDDT Test execution got started ***
+21:51:15.433 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f024f2dd405feb0da821b988f55b4754, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60022}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60022/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f024f2dd405feb0da821b988f55b4754
+21:51:15.641 [main] INFO  - Browser closed successfully.
+21:54:52.480 [main] INFO  - *** LoginTest execution got started ***
+21:54:52.484 [main] INFO  - *** Login failed due to exceptions ***Cannot invoke "java.util.Properties.getProperty(String)" because "this.pr" is null
+21:54:53.397 [main] INFO  - *** LoginDDT Test execution got started ***
+21:54:53.402 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:54:53.408 [main] INFO  - *** LoginDDT Test execution got started ***
+21:54:53.409 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:54:53.416 [main] INFO  - *** LoginDDT Test execution got started ***
+21:54:53.417 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:54:53.424 [main] INFO  - *** LoginDDT Test execution got started ***
+21:54:53.425 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:55:30.003 [main] INFO  - *** LoginTest execution got started ***
+21:55:30.008 [main] INFO  - *** Login failed due to exceptions ***Cannot invoke "java.util.Properties.getProperty(String)" because "this.pr" is null
+21:55:30.933 [main] INFO  - *** LoginDDT Test execution got started ***
+21:55:30.938 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:55:30.944 [main] INFO  - *** LoginDDT Test execution got started ***
+21:55:30.945 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:55:30.950 [main] INFO  - *** LoginDDT Test execution got started ***
+21:55:30.951 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:55:30.957 [main] INFO  - *** LoginDDT Test execution got started ***
+21:55:30.959 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:57:35.425 [main] INFO  - *** LoginTest execution got started ***
+21:57:35.429 [main] INFO  - *** Login failed due to exceptions ***Cannot invoke "java.util.Properties.getProperty(String)" because "this.pr" is null
+21:57:36.353 [main] INFO  - *** LoginDDT Test execution got started ***
+21:57:36.358 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:57:36.363 [main] INFO  - *** LoginDDT Test execution got started ***
+21:57:36.364 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:57:36.368 [main] INFO  - *** LoginDDT Test execution got started ***
+21:57:36.369 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+21:57:36.374 [main] INFO  - *** LoginDDT Test execution got started ***
+21:57:36.375 [main] INFO  - *** Login DDT execution got failedCannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+09:20:07.107 [main] INFO  - Launching browser: chrome on OS: Windows
+09:20:13.376 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+09:20:13.459 [main] INFO  - *** LoginTest execution got started ***
+09:20:16.463 [main] INFO  - *** LoginTest execution got passed ***
+09:20:16.463 [main] INFO  - *** LoginTest execution got completed ***
+09:20:16.475 [main] INFO  - Launching browser: chrome on OS: Windows
+09:20:18.460 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+09:20:20.613 [main] INFO  - *** LoginDDT Test execution got started ***
+09:20:23.956 [main] INFO  - *** LoginDDT Test execution got passed ***
+09:20:23.966 [main] INFO  - *** LoginDDT Test execution got started ***
+09:20:25.791 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2f39b77d6e3c1d973f5feddab81776c6, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50608/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f39b77d6e3c1d973f5feddab81776c6
+09:20:25.804 [main] INFO  - *** LoginDDT Test execution got started ***
+09:20:29.394 [main] INFO  - *** LoginDDT Test execution got passed ***
+09:20:29.404 [main] INFO  - *** LoginDDT Test execution got started ***
+09:20:31.376 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2f39b77d6e3c1d973f5feddab81776c6, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50608}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50608/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f39b77d6e3c1d973f5feddab81776c6
+09:21:51.831 [main] INFO  - Launching browser: chrome on OS: Windows
+09:21:54.725 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+09:21:54.820 [main] INFO  - *** RegisterTest execution got started
+09:22:02.297 [main] INFO  - RegisterTest execution got passed
+09:22:02.300 [main] INFO  - RegisterTest execution got completed
+09:22:02.541 [main] INFO  - Browser closed successfully.
+10:59:36.781 [main] INFO  - Launching browser: chrome on OS: Windows
+10:59:43.041 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+10:59:43.173 [main] INFO  - *** RegisterTest execution got started
+10:59:48.058 [main] INFO  - RegisterTest execution got passed
+10:59:48.058 [main] INFO  - RegisterTest execution got completed
+10:59:48.331 [main] INFO  - Browser closed successfully.
+10:59:48.331 [main] INFO  - Launching browser: chrome on OS: Windows
+10:59:52.364 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+10:59:52.373 [main] INFO  - *** LoginTest execution got started ***
+10:59:54.875 [main] INFO  - *** LoginTest execution got passed ***
+10:59:54.875 [main] INFO  - *** LoginTest execution got completed ***
+10:59:55.104 [main] INFO  - Browser closed successfully.
+10:59:55.108 [main] INFO  - Launching browser: chrome on OS: Windows
+10:59:59.055 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:00:00.675 [main] INFO  - *** LoginDDT Test execution got started ***
+11:00:07.755 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:00:07.771 [main] INFO  - *** LoginDDT Test execution got started ***
+11:00:10.224 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [82b6d1771eed7791b3c428f8d47abe5e, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52465/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 82b6d1771eed7791b3c428f8d47abe5e
+11:00:10.237 [main] INFO  - *** LoginDDT Test execution got started ***
+11:00:14.389 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:00:14.403 [main] INFO  - *** LoginDDT Test execution got started ***
+11:00:16.751 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [82b6d1771eed7791b3c428f8d47abe5e, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52465/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 82b6d1771eed7791b3c428f8d47abe5e
+11:00:17.016 [main] INFO  - Browser closed successfully.
+11:03:13.608 [main] INFO  - Launching browser: chrome on OS: Windows
+11:03:19.586 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:03:19.663 [main] INFO  - *** RegisterTest execution got started
+11:03:27.949 [main] INFO  - Browser closed successfully.
+11:03:27.955 [main] INFO  - Launching browser: chrome on OS: Windows
+11:03:31.674 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:03:31.687 [main] INFO  - *** LoginTest execution got started ***
+11:03:34.684 [main] INFO  - *** LoginTest execution got passed ***
+11:03:34.684 [main] INFO  - *** LoginTest execution got completed ***
+11:03:34.934 [main] INFO  - Browser closed successfully.
+11:03:34.940 [main] INFO  - Launching browser: chrome on OS: Windows
+11:03:40.589 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:03:41.996 [main] INFO  - *** LoginDDT Test execution got started ***
+11:03:46.062 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:03:46.079 [main] INFO  - *** LoginDDT Test execution got started ***
+11:03:48.620 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f69ea805a6b641ad730aa03e133d3e7c, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53004}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53004/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f69ea805a6b641ad730aa03e133d3e7c
+11:03:48.622 [main] INFO  - *** LoginDDT Test execution got started ***
+11:03:51.920 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:03:51.926 [main] INFO  - *** LoginDDT Test execution got started ***
+11:03:54.162 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f69ea805a6b641ad730aa03e133d3e7c, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53004}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53004/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f69ea805a6b641ad730aa03e133d3e7c
+11:03:54.447 [main] INFO  - Browser closed successfully.
+11:06:44.987 [main] INFO  - Launching browser: chrome on OS: Windows
+11:06:49.884 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:06:49.965 [main] INFO  - *** RegisterTest execution got started
+11:06:58.430 [main] INFO  - Browser closed successfully.
+11:06:58.433 [main] INFO  - Launching browser: chrome on OS: Windows
+11:07:00.413 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:07:00.434 [main] INFO  - *** LoginTest execution got started ***
+11:07:05.160 [main] INFO  - *** LoginTest execution got passed ***
+11:07:05.160 [main] INFO  - *** LoginTest execution got completed ***
+11:07:05.377 [main] INFO  - Browser closed successfully.
+11:07:05.381 [main] INFO  - Launching browser: chrome on OS: Windows
+11:07:09.252 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+11:07:10.603 [main] INFO  - *** LoginDDT Test execution got started ***
+11:07:13.909 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:07:13.924 [main] INFO  - *** LoginDDT Test execution got started ***
+11:07:15.927 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bcb864c76ffaa29a1d9cd205ec1ae089, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53507}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53507/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bcb864c76ffaa29a1d9cd205ec1ae089
+11:07:15.927 [main] INFO  - *** LoginDDT Test execution got started ***
+11:07:19.639 [main] INFO  - *** LoginDDT Test execution got passed ***
+11:07:19.651 [main] INFO  - *** LoginDDT Test execution got started ***
+11:07:21.590 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.37)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bcb864c76ffaa29a1d9cd205ec1ae089, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.37, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53507}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53507/devtoo..., se:cdpVersion: 134.0.6998.37, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bcb864c76ffaa29a1d9cd205ec1ae089
+11:07:21.841 [main] INFO  - Browser closed successfully.
+15:48:49.647 [main] INFO  - Launching browser: chrome on OS: mac
+15:50:19.113 [main] INFO  - Launching browser: chrome on OS: windows
+15:50:25.814 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:50:27.708 [main] INFO  - *** LoginDDT Test execution got started ***
+15:50:32.275 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:50:32.298 [main] INFO  - *** LoginDDT Test execution got started ***
+15:50:35.183 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [440921ef9640575679203ad65e50c840, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50733}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 440921ef9640575679203ad65e50c840
+15:50:35.194 [main] INFO  - *** LoginDDT Test execution got started ***
+15:50:39.600 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:50:39.605 [main] INFO  - *** LoginDDT Test execution got started ***
+15:50:41.668 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [440921ef9640575679203ad65e50c840, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50733}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 440921ef9640575679203ad65e50c840
+15:50:41.972 [main] INFO  - Browser closed successfully.
+15:55:40.500 [main] INFO  - Launching browser: chrome on OS: linux
+15:56:28.286 [main] INFO  - Launching browser: firefox on OS: windows
+15:57:41.074 [main] INFO  - Launching browser: edge on OS: windows
+15:57:50.516 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:57:52.921 [main] INFO  - *** LoginDDT Test execution got started ***
+15:57:58.684 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:57:58.715 [main] INFO  - *** LoginDDT Test execution got started ***
+15:58:01.626 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [1e35e59941e87803f675be81a9af0024, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51796}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e35e59941e87803f675be81a9af0024
+15:58:01.636 [main] INFO  - *** LoginDDT Test execution got started ***
+15:58:05.537 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:58:05.546 [main] INFO  - *** LoginDDT Test execution got started ***
+15:58:07.918 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [1e35e59941e87803f675be81a9af0024, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51796}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e35e59941e87803f675be81a9af0024
+15:58:09.444 [main] INFO  - Browser closed successfully.
+15:59:15.334 [main] INFO  - Launching browser: edge on OS: windows
+15:59:20.856 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:59:22.449 [main] INFO  - *** LoginDDT Test execution got started ***
+15:59:26.328 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:59:26.357 [main] INFO  - *** LoginDDT Test execution got started ***
+15:59:28.619 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c4447daa12d6d37d2460bb9162e64df3, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52030}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4447daa12d6d37d2460bb9162e64df3
+15:59:28.627 [main] INFO  - *** LoginDDT Test execution got started ***
+15:59:32.264 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:59:32.273 [main] INFO  - *** LoginDDT Test execution got started ***
+15:59:34.844 [main] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c4447daa12d6d37d2460bb9162e64df3, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52030}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.1.147:4444/ses..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c4447daa12d6d37d2460bb9162e64df3
