@@ -1,138 +1,24 @@
-15:59:36.168 [main] INFO  - Browser closed successfully.
-15:38:06.639 [main] INFO  - Launching browser: firefox on OS: linux
-15:38:46.056 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
-15:38:50.783 [main] INFO  - *** LoginDDT Test execution got started ***
-15:39:01.281 [main] INFO  - *** LoginDDT Test execution got passed ***
-15:39:01.317 [main] INFO  - *** LoginDDT Test execution got started ***
-15:39:06.524 [main] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c79c0ba2-91f9-43fb-96ae-3fddf716e86c, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 180, moz:profile: /tmp/rust_mozprofileJhffti, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c79c0ba2-91f9-43fb-96ae-3fddf716e86c
-15:39:06.535 [main] INFO  - *** LoginDDT Test execution got started ***
-15:39:11.929 [main] INFO  - *** LoginDDT Test execution got passed ***
-15:39:11.932 [main] INFO  - *** LoginDDT Test execution got started ***
-15:39:15.699 [main] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c79c0ba2-91f9-43fb-96ae-3fddf716e86c, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 180, moz:profile: /tmp/rust_mozprofileJhffti, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c79c0ba2-91f9-43fb-96ae-3fddf716e86c
-15:39:18.148 [main] INFO  - Browser closed successfully.
-15:42:05.265 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: linux
-15:42:05.265 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
-15:42:50.329 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
-15:42:55.889 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:42:56.212 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
-15:42:57.031 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
-15:43:15.519 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //input[@value='Login']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//input[@value='Login'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:15.543 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:43:22.439 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:22.448 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:43:24.140 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got passed ***
-15:43:24.166 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
-15:43:26.268 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: #input\-email
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=input-email, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:26.278 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:43:27.585 [TestNG-tests-1] INFO  - *** Login DDT execution got failedThe element with the reference bd45d05e-0300-4f75-8f19-733c6ebd169e is stale; either its node document is not the active document, or it is no longer connected to the DOM
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, sendKeysToElement {value=[Ljava.lang.CharSequence;@636f4056, id=bd45d05e-0300-4f75-8f19-733c6ebd169e}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Element: [[RemoteWebDriver: firefox on linux (c68dd07f-22db-4c1f-a390-12edde8352c6)] -> id: input-password]
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:27.596 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
-15:43:30.633 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:32.852 [TestNG-tests-1] INFO  - *** Login DDT execution got failedTried to run command without establishing a connection
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=input-password, using=id}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
-15:43:32.858 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
-15:43:32.887 [TestNG-tests-2] INFO  - Browser closed successfully.
-15:46:32.872 [TestNG-tests-1] INFO  - *** Login DDT execution got failedSession ID is null. Using WebDriver after calling quit()?
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [null, findElement {value=//span[text()='My Account'], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
-15:46:32.880 [TestNG-tests-1] INFO  - Browser closed successfully.
-15:49:21.806 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: mac
-15:49:21.806 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
-15:49:30.459 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
-15:49:33.111 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:49:39.807 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got passed ***
-15:49:39.825 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:49:44.106 [TestNG-tests-2] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
-  (Session info: chrome=134.0.6998.35)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: ec19e27b00e9e7e535c23f06de7f54ea
-15:49:44.117 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:50:13.237 [TestNG-tests-2] INFO  - *** Login DDT execution got failedtab crashed
-  (Session info: chrome=134.0.6998.35)
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//span[text()='My Account']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: ec19e27b00e9e7e535c23f06de7f54ea
-15:50:13.243 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
-15:50:13.315 [TestNG-tests-2] INFO  - *** Login DDT execution got failedtab crashed
-  (Session info: chrome=134.0.6998.35)
-Build info: version: '4.29.0', revision: '5fc1ec94cb'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
-Driver info: org.openqa.selenium.remote.RemoteWebDriver
-Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//span[text()='My Account']}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: ec19e27b00e9e7e535c23f06de7f54ea
-15:50:13.495 [TestNG-tests-2] INFO  - Browser closed successfully.
-15:53:02.947 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
-15:53:02.947 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: mac
-15:53:09.083 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
-15:53:09.149 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
-15:53:12.830 [TestNG-tests-2] INFO  - *** LoginTest execution got passed ***
-15:53:12.830 [TestNG-tests-2] INFO  - *** LoginTest execution got completed ***
-15:53:12.947 [TestNG-tests-2] INFO  - Browser closed successfully.
-15:57:38.368 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: mac
-15:57:38.368 [TestNG-tests-1] INFO  - Launching browser: edge on OS: mac
+21:27:07.829 [main] INFO  - Launching browser: chrome on OS: windows
+21:27:12.968 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:27:13.078 [main] INFO  - *** RegisterTest execution got started
+21:27:17.319 [main] INFO  - RegisterTest execution got passed
+21:27:17.319 [main] INFO  - RegisterTest execution got completed
+21:27:17.613 [main] INFO  - Browser closed successfully.
+21:27:57.454 [main] INFO  - Launching browser: chrome on OS: windows
+21:28:04.891 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:28:04.976 [main] INFO  - *** RegisterTest execution got started
+21:28:10.158 [main] INFO  - RegisterTest execution got passed
+21:28:10.158 [main] INFO  - RegisterTest execution got completed
+21:28:10.431 [main] INFO  - Browser closed successfully.
+21:29:43.442 [main] INFO  - Launching browser: chrome on OS: windows
+21:29:49.040 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:29:49.170 [main] INFO  - *** RegisterTest execution got started
+21:29:53.910 [main] INFO  - RegisterTest execution got passed
+21:29:53.911 [main] INFO  - RegisterTest execution got completed
+21:29:54.260 [main] INFO  - Browser closed successfully.
+21:33:51.760 [main] INFO  - Launching browser: chrome on OS: windows
+21:33:56.643 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:33:56.765 [main] INFO  - *** RegisterTest execution got started
+21:34:01.476 [main] INFO  - RegisterTest execution got passed
+21:34:01.477 [main] INFO  - RegisterTest execution got completed
+21:34:01.759 [main] INFO  - Browser closed successfully.

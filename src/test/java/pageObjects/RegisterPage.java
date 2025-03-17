@@ -28,7 +28,7 @@ public class RegisterPage extends BasePage {
 	@FindBy(id = "input-confirm") 
 	private WebElement confirmPassInp;
 	
-	@FindBy(xpath = "//input[@name='agr']")
+	@FindBy(xpath = "//input[@name='agree']")
 	private WebElement privacyCheckBox;
 	
 	@FindBy(xpath = "//input[@value='Continue']")

@@ -1,0 +1,368 @@
+15:59:36.168 [main] INFO  - Browser closed successfully.
+15:38:06.639 [main] INFO  - Launching browser: firefox on OS: linux
+15:38:46.056 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:38:50.783 [main] INFO  - *** LoginDDT Test execution got started ***
+15:39:01.281 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:39:01.317 [main] INFO  - *** LoginDDT Test execution got started ***
+15:39:06.524 [main] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c79c0ba2-91f9-43fb-96ae-3fddf716e86c, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 180, moz:profile: /tmp/rust_mozprofileJhffti, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c79c0ba2-91f9-43fb-96ae-3fddf716e86c
+15:39:06.535 [main] INFO  - *** LoginDDT Test execution got started ***
+15:39:11.929 [main] INFO  - *** LoginDDT Test execution got passed ***
+15:39:11.932 [main] INFO  - *** LoginDDT Test execution got started ***
+15:39:15.699 [main] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c79c0ba2-91f9-43fb-96ae-3fddf716e86c, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 180, moz:profile: /tmp/rust_mozprofileJhffti, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c79c0ba2-91f9-43fb-96ae-3fddf716e86c
+15:39:18.148 [main] INFO  - Browser closed successfully.
+15:42:05.265 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: linux
+15:42:05.265 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
+15:42:50.329 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:42:55.889 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:42:56.212 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:42:57.031 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
+15:43:15.519 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //input[@value='Login']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//input[@value='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:15.543 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:43:22.439 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:22.448 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:43:24.140 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got passed ***
+15:43:24.166 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
+15:43:26.268 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: #input\-email
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=input-email, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:26.278 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:43:27.585 [TestNG-tests-1] INFO  - *** Login DDT execution got failedThe element with the reference bd45d05e-0300-4f75-8f19-733c6ebd169e is stale; either its node document is not the active document, or it is no longer connected to the DOM
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, sendKeysToElement {value=[Ljava.lang.CharSequence;@636f4056, id=bd45d05e-0300-4f75-8f19-733c6ebd169e}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Element: [[RemoteWebDriver: firefox on linux (c68dd07f-22db-4c1f-a390-12edde8352c6)] -> id: input-password]
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:27.596 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
+15:43:30.633 [TestNG-tests-2] INFO  - *** Login DDT execution got failedUnable to locate element: //h2[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=//h2[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:32.852 [TestNG-tests-1] INFO  - *** Login DDT execution got failedTried to run command without establishing a connection
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [c68dd07f-22db-4c1f-a390-12edde8352c6, findElement {value=input-password, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+Session ID: c68dd07f-22db-4c1f-a390-12edde8352c6
+15:43:32.858 [TestNG-tests-1] INFO  - *** LoginDDT Test execution got started ***
+15:43:32.887 [TestNG-tests-2] INFO  - Browser closed successfully.
+15:46:32.872 [TestNG-tests-1] INFO  - *** Login DDT execution got failedSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [null, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 136.0, container:hostname: 026f5a1d2ef7, moz:accessibilityChecks: false, moz:buildID: 20250227124745, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 5.15.167.4-microsoft-standa..., moz:processID: 550, moz:profile: /tmp/rust_mozprofilePu5fpx, moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.4:4444/sessio..., se:containerName: 026f5a1d2ef7, se:noVncPort: 7900, se:vnc: ws://172.18.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (X11; Linux x86...}
+15:46:32.880 [TestNG-tests-1] INFO  - Browser closed successfully.
+15:49:21.806 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: mac
+15:49:21.806 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
+15:49:30.459 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:49:33.111 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:49:39.807 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got passed ***
+15:49:39.825 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:49:44.106 [TestNG-tests-2] INFO  - *** Login DDT execution got failedno such element: Unable to locate element: {"method":"xpath","selector":"//h2[normalize-space()='My Account']"}
+  (Session info: chrome=134.0.6998.35)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec19e27b00e9e7e535c23f06de7f54ea
+15:49:44.117 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:50:13.237 [TestNG-tests-2] INFO  - *** Login DDT execution got failedtab crashed
+  (Session info: chrome=134.0.6998.35)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec19e27b00e9e7e535c23f06de7f54ea
+15:50:13.243 [TestNG-tests-2] INFO  - *** LoginDDT Test execution got started ***
+15:50:13.315 [TestNG-tests-2] INFO  - *** Login DDT execution got failedtab crashed
+  (Session info: chrome=134.0.6998.35)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [ec19e27b00e9e7e535c23f06de7f54ea, findElement {using=xpath, value=//span[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.35, chrome: {chromedriverVersion: 134.0.6998.35 (ea6ef4c2ac15..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 134.0.6998.35, se:containerName: 8ef08905c212, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ec19e27b00e9e7e535c23f06de7f54ea
+15:50:13.495 [TestNG-tests-2] INFO  - Browser closed successfully.
+15:53:02.947 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
+15:53:02.947 [TestNG-tests-1] INFO  - Launching browser: firefox on OS: mac
+15:53:09.083 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+15:53:09.149 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+15:53:12.830 [TestNG-tests-2] INFO  - *** LoginTest execution got passed ***
+15:53:12.830 [TestNG-tests-2] INFO  - *** LoginTest execution got completed ***
+15:53:12.947 [TestNG-tests-2] INFO  - Browser closed successfully.
+15:57:38.368 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: mac
+15:57:38.368 [TestNG-tests-1] INFO  - Launching browser: edge on OS: mac
+20:56:40.960 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: linux
+20:56:40.960 [TestNG-tests-1] INFO  - Launching browser: edge on OS: linux
+20:56:51.669 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+20:56:51.761 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+20:56:52.119 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+20:56:52.123 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+20:56:58.712 [TestNG-tests-2] INFO  - *** Login failed due to exceptions ***stale element reference: stale element not found
+  (Session info: MicrosoftEdge=134.0.3124.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c5ae92d2cd2ca43b8116e2ba33c7cb2d, executeScript {script=arguments[0].click();, args=[{element-6066-11e4-a52e-4f735466cecf=f.F8EDC1F39B8450E064D25B1A39F71827.d.951781A40A34901C218C4F5160570D1E.e.54}]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58131}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58131/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5ae92d2cd2ca43b8116e2ba33c7cb2d
+20:57:00.827 [TestNG-tests-2] INFO  - Browser closed successfully.
+20:58:22.846 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+20:58:22.846 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+20:58:28.497 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+20:58:28.722 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+20:58:34.950 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+20:58:34.966 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+20:58:35.246 [TestNG-tests-2] INFO  - *** LoginTest execution got passed ***
+20:58:35.246 [TestNG-tests-2] INFO  - *** LoginTest execution got completed ***
+20:58:36.893 [TestNG-tests-2] INFO  - Browser closed successfully.
+20:59:58.832 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [c5ae92d2cd2ca43b8116e2ba33c7cb2d, isElementDisplayed {id=f.F8EDC1F39B8450E064D25B1A39F71827.d.A1BD1E838EF38F11CB0D228FE819579C.e.59}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58131}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58131/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (c5ae92d2cd2ca43b8116e2ba33c7cb2d)] -> id: input-email]
+20:59:58.844 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:01:31.682 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:01:31.682 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:01:35.537 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, findElement {value=//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58421}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58421/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:01:35.565 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:01:37.896 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:01:38.058 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+21:01:39.312 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:01:39.325 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:01:46.559 [TestNG-tests-2] INFO  - *** Login failed due to exceptions ***stale element reference: stale element not found
+  (Session info: MicrosoftEdge=134.0.3124.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [709cc03343596f0961ac79e7978a3ee7, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.E3A6F2C406962FF7868C6D76FB76D27D.d.5F269EF0C965A31C47F362FEEBF1D1F7.e.50}], script=arguments[0].click();}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59158}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59158/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 709cc03343596f0961ac79e7978a3ee7
+21:01:48.319 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:04:46.747 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [709cc03343596f0961ac79e7978a3ee7, findElement {value=input-email, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59158}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59158/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:04:46.758 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:05:12.371 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:05:12.523 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:05:23.174 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:05:23.272 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+21:05:23.589 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:05:23.596 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:05:30.150 [TestNG-tests-2] INFO  - *** Login failed due to exceptions ***stale element reference: stale element not found
+  (Session info: MicrosoftEdge=134.0.3124.72)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [380d333ccccca3beac9537e7d6084d03, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.F4DF5423281402210AE68D86FD3ADE08.d.08BDC01E0985ED0188A50502A137EB58.e.73}], script=arguments[0].click();}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59991}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59991/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 380d333ccccca3beac9537e7d6084d03
+21:05:32.189 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:06:57.915 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:06:58.074 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:07:04.251 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:07:04.339 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:07:04.732 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:07:04.744 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+21:07:14.251 [TestNG-tests-1] INFO  - *** LoginTest execution got passed ***
+21:07:14.251 [TestNG-tests-1] INFO  - *** LoginTest execution got completed ***
+21:07:14.693 [TestNG-tests-2] INFO  - *** Login failed due to exceptions ***Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5047f95fdd601b33ad48f699414ca28f, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60292}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60292/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5047f95fdd601b33ad48f699414ca28f
+21:07:15.809 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:08:30.292 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [380d333ccccca3beac9537e7d6084d03, findElement {value=input-email, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59991}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59991/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:08:30.304 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:08:56.280 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:08:56.422 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:09:04.645 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:09:04.772 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:09:05.170 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:09:05.171 [TestNG-tests-2] INFO  - *** LoginTest execution got started ***
+21:09:11.501 [TestNG-tests-2] INFO  - *** Login failed due to exceptions ***stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [921898884e8be86445e57d44f88ec81a, executeScript {args=[{element-6066-11e4-a52e-4f735466cecf=f.DCB4E40524FDB7382BE16F004AC63206.d.5D15B17A2EF2F4A3AAEE4082FAF7F2A7.e.46}], script=arguments[0].click();}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60886}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60886/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 921898884e8be86445e57d44f88ec81a
+21:09:11.880 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:10:21.000 [main] INFO  - Launching browser: edge on OS: windows
+21:10:33.773 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:10:33.877 [main] INFO  - *** LoginTest execution got started ***
+21:10:36.862 [main] INFO  - *** LoginTest execution got passed ***
+21:10:36.862 [main] INFO  - *** LoginTest execution got completed ***
+21:10:38.409 [main] INFO  - Browser closed successfully.
+21:12:11.620 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [921898884e8be86445e57d44f88ec81a, isElementDisplayed {id=f.DCB4E40524FDB7382BE16F004AC63206.d.264FF71B83DE2E3C028B87F15BC412ED.e.50}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\devil\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60886}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60886/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (921898884e8be86445e57d44f88ec81a)] -> id: input-email]
+21:12:11.628 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:12:13.027 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:12:13.182 [TestNG-tests-2] INFO  - Launching browser: edge on OS: windows
+21:12:21.013 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:12:21.108 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:12:21.418 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:12:21.434 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+21:12:30.492 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:13:40.977 [main] INFO  - Launching browser: edge on OS: windows
+21:13:48.305 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:13:48.369 [main] INFO  - *** RegisterTest execution got started
+21:13:58.082 [main] INFO  - Browser closed successfully.
+21:13:58.093 [main] INFO  - Launching browser: edge on OS: windows
+21:14:03.719 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:14:03.731 [main] INFO  - *** LoginTest execution got started ***
+21:14:06.160 [main] INFO  - *** LoginTest execution got passed ***
+21:14:06.160 [main] INFO  - *** LoginTest execution got completed ***
+21:14:07.523 [main] INFO  - Browser closed successfully.
+21:14:49.932 [main] INFO  - Launching browser: edge on OS: windows
+21:14:54.814 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:14:54.915 [main] INFO  - *** RegisterTest execution got started
+21:15:04.193 [main] INFO  - RegisterTest execution got passed
+21:15:04.193 [main] INFO  - RegisterTest execution got completed
+21:15:05.548 [main] INFO  - Browser closed successfully.
+21:15:05.561 [main] INFO  - Launching browser: edge on OS: windows
+21:15:15.075 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:15:15.089 [main] INFO  - *** LoginTest execution got started ***
+21:15:17.614 [main] INFO  - *** LoginTest execution got passed ***
+21:15:17.614 [main] INFO  - *** LoginTest execution got completed ***
+21:15:19.038 [main] INFO  - Browser closed successfully.
+21:15:29.072 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8f185e615fba571a7566ff05bcd62d55, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61587}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61587/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:15:29.087 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:18:57.877 [main] INFO  - Launching browser: edge on OS: windows
+21:19:05.100 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:19:05.163 [main] INFO  - *** LoginTest execution got started ***
+21:19:08.222 [main] INFO  - *** LoginTest execution got passed ***
+21:19:08.222 [main] INFO  - *** LoginTest execution got completed ***
+21:19:09.710 [main] INFO  - Browser closed successfully.
+21:19:10.572 [main] INFO  - Launching browser: chrome on OS: windows
+21:19:18.015 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:19:18.030 [main] INFO  - *** RegisterTest execution got started
+21:19:22.027 [main] INFO  - RegisterTest execution got passed
+21:19:22.027 [main] INFO  - RegisterTest execution got completed
+21:19:22.337 [main] INFO  - Browser closed successfully.
+21:19:49.712 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:19:49.887 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:19:53.646 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:19:54.019 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+21:20:01.238 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:20:01.255 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:20:03.758 [TestNG-tests-2] INFO  - RegisterTest execution got passed
+21:20:03.759 [TestNG-tests-2] INFO  - RegisterTest execution got completed
+21:20:07.802 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:20:54.618 [TestNG-tests-1] INFO  - Launching browser: edge on OS: windows
+21:20:54.618 [TestNG-tests-2] INFO  - Launching browser: chrome on OS: windows
+21:21:01.672 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:21:01.794 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+21:21:01.910 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:21:01.923 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:21:10.503 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:21:47.986 [TestNG-tests-2] INFO  - Launching browser: edge on OS: windows
+21:21:47.986 [TestNG-tests-1] INFO  - Launching browser: chrome on OS: windows
+21:21:54.050 [TestNG-tests-1] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:21:54.180 [TestNG-tests-1] INFO  - *** LoginTest execution got started ***
+21:22:04.380 [TestNG-tests-2] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:22:04.390 [TestNG-tests-2] INFO  - *** RegisterTest execution got started
+21:22:14.013 [TestNG-tests-2] INFO  - Browser closed successfully.
+21:23:06.304 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [8016e65a32167f6d51103f42607dd0c0, findElement {using=xpath, value=//h2[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63002}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63002/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:23:06.312 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:23:47.078 [main] INFO  - Launching browser: chrome on OS: windows
+21:23:52.873 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+21:23:52.945 [main] INFO  - *** RegisterTest execution got started
+21:23:57.120 [main] INFO  - RegisterTest execution got passed
+21:23:57.120 [main] INFO  - RegisterTest execution got completed
+21:23:57.480 [main] INFO  - Browser closed successfully.
+21:24:09.051 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [daafbd73d7df407e06518f83fb41c5d0, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63228}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63228/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:24:09.061 [TestNG-tests-1] INFO  - Browser closed successfully.
+21:25:12.596 [TestNG-tests-1] INFO  - *** Login failed due to exceptions ***java.util.concurrent.TimeoutException
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5ea37cfe5b11cc454047444d679b1316, findElement {using=id, value=input-email}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.72, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63425}, msedge: {msedgedriverVersion: 134.0.3124.72 (c81e2c3854de..., userDataDir: C:\Users\devil\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63425/devtoo..., se:cdpVersion: 134.0.3124.72, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+21:25:12.608 [TestNG-tests-1] INFO  - Browser closed successfully.
