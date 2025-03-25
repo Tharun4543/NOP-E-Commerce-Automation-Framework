@@ -70,4 +70,7 @@ public class LoginPage extends BasePage{
 		clickElement(mah.myAccountBtnEle);
 		clickElement(mah.logoutBtn);
 	}
+	
+	
+	
 }

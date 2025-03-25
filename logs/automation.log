@@ -22,3 +22,9 @@
 21:34:01.476 [main] INFO  - RegisterTest execution got passed
 21:34:01.477 [main] INFO  - RegisterTest execution got completed
 21:34:01.759 [main] INFO  - Browser closed successfully.
+09:11:07.211 [main] INFO  - Launching browser: chrome on OS: windows
+09:11:12.228 [main] INFO  - Navigated to: https://tutorialsninja.com/demo/
+09:11:12.304 [main] INFO  - *** RegisterTest execution got started
+09:11:15.142 [main] INFO  - RegisterTest execution got passed
+09:11:15.142 [main] INFO  - RegisterTest execution got completed
+09:11:15.349 [main] INFO  - Browser closed successfully.

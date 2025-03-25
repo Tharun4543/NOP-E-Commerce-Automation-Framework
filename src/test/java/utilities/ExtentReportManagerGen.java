@@ -86,11 +86,20 @@ public class ExtentReportManagerGen implements ITestListener {
         }
     }
     public void onFinish(ITestContext testContext) {
-        extent.flush();
-        try {
-            Desktop.getDesktop().browse(new File(System.getProperty("user.dir") + "/reports/" + repName).toURI());
-        } catch (IOException e) {
-            e.printStackTrace();
+        if (extent != null) {
+            extent.flush();
+        }
+        
+        File reportFile = new File(System.getProperty("user.dir") + "/reports/" + repName);
+        if (reportFile.exists()) {
+            try {
+                Desktop.getDesktop().browse(reportFile.toURI());
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        } else {
+            System.err.println("Report file not found: " + reportFile.getAbsolutePath());
         }
     }
 }
+
